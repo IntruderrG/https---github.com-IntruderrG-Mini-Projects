@@ -1,0 +1,124 @@
+.button1 {
+  display: block;
+  height: 70px;
+  width: 550px;
+  font-weight: bold;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.button1:hover {
+  opacity: 90%;
+  transform: scale(1.02);
+  border-radius: 3px;
+}
+.button1:active {
+  opacity: 80%;
+}
+.button2 {
+  display: block;
+  height: 70px;
+  width: 550px;
+  font-weight: bold;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.button2:hover {
+  opacity: 90%;
+  transform: scale(0.97);
+  border-radius: 3px;
+}
+.button2:active {
+  opacity: 80%;
+}
+.button3 {
+  display: block;
+  height: 70px;
+  width: 550px;
+  font-weight: bold;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.button3:hover {
+  opacity: 90%;
+}
+.button3:active {
+  opacity: 80%;
+}
+.box {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  margin-bottom: 60px;
+  margin-top: 30px;
+  width: 550px;
+  background-color: #c4c1c1;
+  height: 170px;
+}
+.shadowbox {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.para {
+  font-family: "Playwrite PL", cursive;
+  font-size: 70px;
+  font-weight: bold;
+  margin: 0px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.innerBox {
+  padding: 10px;
+}
+.navHeading {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 100px;
+  margin: 0px;
+  /* color: rgb(7, 128, 128); */
+  margin-left: 100px;
+}
+.topElem {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+.outerOuterBox {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+  margin-top: 50px;
+}
+.home {
+  height: 30px;
+  width: 30px;
+  margin-left: 3px;
+}
+.anchor1 {
+  color: black;
+  text-decoration: none;
+}
+.anchor1:hover {
+  color: #797676;
+}
+.sideimg {
+  height: 500px;
+}
+.topElem {
+  background-color: #a8a6a6;
+}
+.sideBox {
+  margin-left: 30px;
+}
